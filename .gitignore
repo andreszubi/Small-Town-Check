@@ -1,0 +1,29 @@
+# CMake build directories
+cmake-build-*/
+build/
+out/
+cmake-build-debug/
+cmake-build-release/
+
+# CLion IDE
+.idea/
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+Small_Town_Check
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CMakeLists.txt
+
+# MacOS files
+.DS_Store
