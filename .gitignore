@@ -1,2 +1,5 @@
 #MacOS
 .DS_Store
+
+# CMake/CLion build output
+cmake-build-*/
